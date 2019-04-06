@@ -17,9 +17,17 @@
                 <configuration>
                     <systemPropertyVariables>
                         <webdriver.chrome.driver>src/test/resources/drivers/chromedriver</webdriver.chrome.driver>
-                        <baseURL>http://blog.csssr.ru/qa-engineer/</baseURL>
+                        <baseURL>https://vk.com/</baseURL>
                         <buildDirectory>${project.build.directory}</buildDirectory>
                     </systemPropertyVariables>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>8</source>
+                    <target>8</target>
                 </configuration>
             </plugin>
         </plugins>

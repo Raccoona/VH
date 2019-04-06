@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5caff15d-2673-448e-8f60-281871c4d113" name="Default Changelist" comment="" />
+    <list default="true" id="5caff15d-2673-448e-8f60-281871c4d113" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/TC0_MainPageWithoutLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TC1_LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TC2_NavigateToMenuButtonsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ResponsibilitiesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CheckSoftForScreenshotsLinkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ResponsibilitiesPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CheckboxesTest.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +28,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+            <state relative-caret-position="285">
+              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/login.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -24,21 +46,92 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <element signature="e#745#746#0" expanded="true" />
-                <element signature="e#766#767#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CheckSoftForScreenshotsLinkTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#542#543#0" expanded="true" />
+                <element signature="e#596#597#0" expanded="true" />
+                <element signature="e#635#636#0" expanded="true" />
+                <element signature="e#685#686#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TC0_MainPageWithoutLoginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FeedPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="56" column="24" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1632#1633#0" expanded="true" />
+                <element signature="e#1682#1683#0" expanded="true" />
+                <element signature="e#2563#2564#0" expanded="true" />
+                <element signature="e#2591#2592#0" expanded="true" />
+                <element signature="e#2092#2093#0" expanded="true" />
+                <element signature="e#2121#2122#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TC6_ReplyToNewlyPublishedPostTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TC5_LikeNewlyPublishedPostTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TC3_ClickTopButtonsTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+              <caret line="10" column="48" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,28 +140,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/BasePage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TC4_PublishPostTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ResponsibilitiesPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1025#1026#0" expanded="true" />
-                <element signature="e#1093#1094#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,16 +160,36 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/BasePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/HomePage.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/CheckboxesTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ResponsibilitiesPage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/CheckSoftForScreenshotsLinkTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Page.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MenuLinksTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/NavigateToMenuButtonsTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MainPage.java" />
+        <option value="$PROJECT_DIR$/login.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/ClickTopButtonsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LoginTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/NavigateToMenuButtonsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LikeNewlyPublishedPostTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ReplyToNewlyPublishedPostTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FeedPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PublishPostTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MainPageWithoutLoginTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TC0_MainPageWithoutLoginTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TC5_LikeNewlyPublishedPostTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TC6_ReplyToNewlyPublishedPostTest.java" />
       </list>
     </option>
   </component>
@@ -104,16 +201,18 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="447" />
-    <option name="y" value="120" />
+    <option name="x" value="250" />
+    <option name="y" value="80" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,12 +255,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550765500850" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554545561456" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/selenium-server-standalone-3.141.59.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -181,32 +279,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.CheckSoftForScreenshotsLinkTest.checkboxesTest">
-    <configuration name="CheckSoftForScreenshotsLinkTest.checkboxesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TC0_MainPageWithoutLoginTest.mainPageWithoutLoginTest">
+    <configuration name="TC0_MainPageWithoutLoginTest.mainPageWithoutLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="geksogen" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CheckSoftForScreenshotsLinkTest" />
-      <option name="METHOD_NAME" value="checkboxesTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BaseTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="geksogen" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BaseTest" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BaseTest.verifyHomepageTitle" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="geksogen" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BaseTest" />
-      <option name="METHOD_NAME" value="verifyHomepageTitle" />
+      <option name="MAIN_CLASS_NAME" value="TC0_MainPageWithoutLoginTest" />
+      <option name="METHOD_NAME" value="mainPageWithoutLoginTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -214,11 +292,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckSoftForScreenshotsLinkTest.checkboxesTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TC3_ClickTopButtonsTest.clickTopButtonsTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="geksogen" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CheckSoftForScreenshotsLinkTest" />
-      <option name="METHOD_NAME" value="checkboxesTest" />
+      <option name="MAIN_CLASS_NAME" value="TC3_ClickTopButtonsTest" />
+      <option name="METHOD_NAME" value="clickTopButtonsTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC4_PublishPostTest.publishPostTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="geksogen" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TC4_PublishPostTest" />
+      <option name="METHOD_NAME" value="publishPostTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC5_LikeNewlyPublishedPostTest.likeNewlyPublishedPostTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="geksogen" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TC5_LikeNewlyPublishedPostTest" />
+      <option name="METHOD_NAME" value="likeNewlyPublishedPostTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC6_ReplyToNewlyPublishedPostTest.replyToNewlyPublishedPostTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="geksogen" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TC6_ReplyToNewlyPublishedPostTest" />
+      <option name="METHOD_NAME" value="replyToNewlyPublishedPostTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -228,10 +342,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.CheckSoftForScreenshotsLinkTest.checkboxesTest" />
-        <item itemvalue="JUnit.CheckSoftForScreenshotsLinkTest.checkboxesTest" />
-        <item itemvalue="TestNG.BaseTest.verifyHomepageTitle" />
-        <item itemvalue="TestNG.BaseTest" />
+        <item itemvalue="TestNG.TC0_MainPageWithoutLoginTest.mainPageWithoutLoginTest" />
+        <item itemvalue="TestNG.TC6_ReplyToNewlyPublishedPostTest.replyToNewlyPublishedPostTest" />
+        <item itemvalue="TestNG.TC5_LikeNewlyPublishedPostTest.likeNewlyPublishedPostTest" />
+        <item itemvalue="TestNG.TC4_PublishPostTest.publishPostTest" />
+        <item itemvalue="TestNG.TC3_ClickTopButtonsTest.clickTopButtonsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -249,59 +364,58 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CheckboxesTest_checkboxesTest - 2019.02.21 at 17h 43m 07s.xml">
-      <configuration name="CheckboxesTest.checkboxesTest" configurationId="JUnit" />
+    <history-entry file="PublishPostTest_publishPostTest - 2019.04.06 at 12h 35m 40s.xml">
+      <configuration name="PublishPostTest.publishPostTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckboxesTest_checkboxesTest - 2019.02.21 at 17h 43m 41s.xml">
-      <configuration name="CheckboxesTest.checkboxesTest" configurationId="TestNG" />
+    <history-entry file="LikeNewlyPublishedPostTest_likeNewlyPublishedPostTest - 2019.04.06 at 12h 36m 00s.xml">
+      <configuration name="LikeNewlyPublishedPostTest.likeNewlyPublishedPostTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckboxesTest_checkboxesTest - 2019.02.21 at 17h 45m 35s.xml">
-      <configuration name="CheckboxesTest.checkboxesTest" configurationId="TestNG" />
+    <history-entry file="ReplyToNewlyPublishedPostTest_replyToNewlyPublishedPostTest - 2019.04.06 at 12h 36m 42s.xml">
+      <configuration name="ReplyToNewlyPublishedPostTest.replyToNewlyPublishedPostTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckboxesTest_checkboxesTest - 2019.02.21 at 17h 53m 51s.xml">
-      <configuration name="CheckboxesTest.checkboxesTest" configurationId="TestNG" />
+    <history-entry file="ReplyToNewlyPublishedPostTest_replyToNewlyPublishedPostTest - 2019.04.06 at 12h 37m 46s.xml">
+      <configuration name="ReplyToNewlyPublishedPostTest.replyToNewlyPublishedPostTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckboxesTest_checkboxesTest - 2019.02.21 at 18h 00m 03s.xml">
-      <configuration name="CheckboxesTest.checkboxesTest" configurationId="TestNG" />
+    <history-entry file="ReplyToNewlyPublishedPostTest_replyToNewlyPublishedPostTest - 2019.04.06 at 12h 38m 39s.xml">
+      <configuration name="ReplyToNewlyPublishedPostTest.replyToNewlyPublishedPostTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckboxesTest_checkboxesTest - 2019.02.21 at 18h 02m 01s.xml">
-      <configuration name="CheckboxesTest.checkboxesTest" configurationId="TestNG" />
+    <history-entry file="PublishPostTest_publishPostTest - 2019.04.06 at 12h 41m 05s.xml">
+      <configuration name="PublishPostTest.publishPostTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckboxesTest_checkboxesTest - 2019.02.21 at 18h 04m 08s.xml">
-      <configuration name="CheckboxesTest.checkboxesTest" configurationId="TestNG" />
+    <history-entry file="LikeNewlyPublishedPostTest_likeNewlyPublishedPostTest - 2019.04.06 at 12h 41m 37s.xml">
+      <configuration name="LikeNewlyPublishedPostTest.likeNewlyPublishedPostTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckboxesTest_checkboxesTest - 2019.02.21 at 18h 04m 18s.xml">
-      <configuration name="CheckboxesTest.checkboxesTest" configurationId="TestNG" />
+    <history-entry file="LikeNewlyPublishedPostTest_likeNewlyPublishedPostTest - 2019.04.06 at 12h 42m 26s.xml">
+      <configuration name="LikeNewlyPublishedPostTest.likeNewlyPublishedPostTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckboxesTest_checkboxesTest - 2019.02.21 at 18h 08m 15s.xml">
-      <configuration name="CheckboxesTest.checkboxesTest" configurationId="TestNG" />
+    <history-entry file="ReplyToNewlyPublishedPostTest_replyToNewlyPublishedPostTest - 2019.04.06 at 12h 42m 48s.xml">
+      <configuration name="ReplyToNewlyPublishedPostTest.replyToNewlyPublishedPostTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckboxesTest_checkboxesTest - 2019.02.21 at 18h 09m 42s.xml">
-      <configuration name="CheckboxesTest.checkboxesTest" configurationId="TestNG" />
+    <history-entry file="MainPageWithoutLoginTest_mainPageWithoutLoginTest - 2019.04.06 at 12h 55m 25s.xml">
+      <configuration name="MainPageWithoutLoginTest.mainPageWithoutLoginTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="447" y="120" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="250" y="80" width="1400" height="1000" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533235" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26440176" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3290993" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3290993" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995381" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298611" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39930555" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3287037" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -316,24 +430,134 @@
     <entry file="file://$PROJECT_DIR$/geksogen.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ResponsibilitiesPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TC1_LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
+        <state relative-caret-position="165">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1025#1026#0" expanded="true" />
-            <element signature="e#1093#1094#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TC2_NavigateToMenuButtonsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/BasePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="75">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-898">
+          <caret line="81" column="37" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TC4_PublishPostTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TC3_ClickTopButtonsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FeedPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="24" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1632#1633#0" expanded="true" />
+            <element signature="e#1682#1683#0" expanded="true" />
+            <element signature="e#2563#2564#0" expanded="true" />
+            <element signature="e#2591#2592#0" expanded="true" />
+            <element signature="e#2092#2093#0" expanded="true" />
+            <element signature="e#2121#2122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TC0_MainPageWithoutLoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TC5_LikeNewlyPublishedPostTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TC6_ReplyToNewlyPublishedPostTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -342,29 +566,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        <state relative-caret-position="285">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
+    <entry file="file://$PROJECT_DIR$/login.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
-          <folding>
-            <element signature="e#745#746#0" expanded="true" />
-            <element signature="e#766#767#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CheckSoftForScreenshotsLinkTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
